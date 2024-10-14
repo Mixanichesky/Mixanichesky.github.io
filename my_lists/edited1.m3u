@@ -28,7 +28,7 @@ http://10.10.10.25:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6
 http://10.10.10.25:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2&.mp4
 #EXTINF:-1 group-title="movies" tvg-name="BCU_Kinozakaz_HD_[RU]" tvg-logo="BCU Kinozakaz HD [RU].png",BCU Kinozakaz HD [RU]
 http://10.10.10.25:6878/ace/getstream?id=9cd5a5ee3d83b36cd5dd36dbc912e37531df482b&.mp4
-#EXTINF:-1 group-title="movies" tvg-name="BCU_Marvel_HD_[RU]" tvg-logo="BCU Marvel HD [RU].png",BCU Marvel HD [RU]
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Marvel_HD" tvg-logo="BCU Marvel HD [RU].png",BCU Marvel HD [RU]
 http://10.10.10.25:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7&.mp4
 #EXTINF:-1 group-title="movies" tvg-name="BCU_Premiere_HD_[RU]" tvg-logo="BCU Premiere HD [RU].png",BCU Premiere HD [RU]
 http://10.10.10.25:6878/ace/getstream?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154&.mp4
