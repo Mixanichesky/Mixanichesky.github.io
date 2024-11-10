@@ -1,0 +1,5 @@
+EXTM3U
+#EXTINF:-1,CamDvor
+http://10.10.10.25:1984/api/stream.mp4?src=cam2&mp4=all
+#EXTINF:-1,CamDvor1
+http://10.10.10.25:1984/api/stream.m3u8?src=cam2&mp4
