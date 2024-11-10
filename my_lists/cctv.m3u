@@ -2,7 +2,7 @@ XTM3U
 #EXTINF:-1,CamDvor1
 http://10.10.10.25:1984/api/stream.m3u8?src=cam2
 #EXTINF:-1,CamDvor2
-http://10.10.10.25:1984/api/stream.m3u8?src=cam2&mp4
+http://10.10.10.25:1984/stream.html?src=cam2
 #EXTINF:-1,CamDvor3
 http://10.10.10.25:1984/api/stream.m3u8?src=cam2&mp4=flac
 #EXTINF:-1,CamDvor4
