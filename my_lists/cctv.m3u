@@ -2,13 +2,11 @@ XTM3U
 #EXTINF:-1,CamDvor1
 http://10.10.10.25:1984/api/stream.m3u8?src=cam2
 #EXTINF:-1,CamLestnica
-http://10.10.10.25:1984/api/stream.m3u8?src=cam1
-#EXTINF:-1,CamDvor3
 http://10.10.10.25:1984/api/stream.m3u8?src=cam01
-#EXTINF:-1,CamDvor4
-http://10.10.10.25:1984/api/stream.mp4?src=cam2
-#EXTINF:-1,CamDvor5
-http://10.10.10.25:1984/api/stream.mp4?src=cam2&mp4=flac
+#EXTINF:-1,CamFirst
+http://10.10.10.25:1984/api/stream.mp4?src=cam11
+#EXTINF:-1,CamDvor1_sound
+http://10.10.10.25:1984/api/stream.m3u8?src=cam2S
 #EXTINF:-1,CamDvor6
 http://10.10.10.25:1984/api/stream.mp4?src=cam2&mp4=all
 #EXTINF:-1,CamDvor7
