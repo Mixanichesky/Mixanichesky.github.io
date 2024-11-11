@@ -8,7 +8,7 @@ http://10.10.10.25:1984/api/stream.m3u8?src=cam11&mp4
 #EXTINF:-1,CamDvor1_sound
 http://10.10.10.25:1984/api/stream.m3u8?src=cam2S
 #EXTINF:-1,CamDvor6
-http://10.10.10.25:1984/api/stream.mp4?src=cam2&mp4=all
+http://10.10.10.25:1984/api/stream.mp4?src=cam2&mp4=flac
 #EXTINF:-1,CamDvor7
 http://10.10.10.25:1984/stream.html?src=cam2&mode=webrtc
 #EXTINF:-1,CamDvor8
