@@ -4,7 +4,7 @@ http://10.10.10.25:1984/api/stream.m3u8?src=cam2
 #EXTINF:-1,CamLestnica
 http://10.10.10.25:1984/api/stream.m3u8?src=cam01
 #EXTINF:-1,CamFirst
-http://10.10.10.25:1984/api/stream.mp4?src=cam11
+http://10.10.10.25:1984/api/stream.m3u?src=cam11&mp4
 #EXTINF:-1,CamDvor1_sound
 http://10.10.10.25:1984/api/stream.m3u8?src=cam2S
 #EXTINF:-1,CamDvor6
