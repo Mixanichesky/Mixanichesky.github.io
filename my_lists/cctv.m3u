@@ -1,4 +1,4 @@
-XTM3U
+#EXTM3U
 #EXTINF:-1,CamDvor
 http://10.10.10.25:1984/api/stream.m3u8?src=cam3
 #EXTINF:-1,CamLestnica
