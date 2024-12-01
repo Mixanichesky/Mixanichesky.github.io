@@ -1,0 +1,415 @@
+#EXTM3U
+#EXTINF:-1 group-title="movies" tvg-name=".black_[RU]" ttv-logo=".black [RU].png",.black [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6346a98e.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name=".red_[RU]" ttv-logo=".red [RU].png",.red [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4a6496f5.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name=".sci-fi_[RU]" ttv-logo=".sci-fi [RU].png",.sci-fi [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8c1ca2c9.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="1FILMAX" ttv-logo="1FILMAX.png",1FILMAX (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_80b094e6.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="2FILMAX" ttv-logo="2FILMAX.png",2FILMAX (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a40380ca.acelive%3F.mp4
+#EXTINF:-1 group-title="sport" tvg-name="ACETOP-1" ttv-logo="ACETOP-1.png",ACETOP-1 (sport)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6579c7d4.acelive%3F.mp4
+#EXTINF:-1 group-title="sport" tvg-name="ACETOP-2" ttv-logo="ACETOP-2.png",ACETOP-2 (sport)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3e974052.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Akudji_HD" ttv-logo="Akudji HD.png",Akudji HD (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_17ff700d.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Amedia_1" ttv-logo="Amedia 1.png",Amedia 1 (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ee54c60c.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Amedia_1_[RU]" ttv-logo="Amedia 1 [RU].png",Amedia 1 [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cb0de855.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Amedia_2" ttv-logo="Amedia 2.png",Amedia 2 (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7936d930.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Amedia_2_[RU]" ttv-logo="Amedia 2 [RU].png",Amedia 2 [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_91662a29.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Amedia_Hit_HD" ttv-logo="Amedia Hit HD.png",Amedia Hit HD (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c9cabb87.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Amedia_Hit_[RU]" ttv-logo="Amedia Hit [RU].png",Amedia Hit [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ae789bb7.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Amedia_Premium" ttv-logo="Amedia Premium.png",Amedia Premium (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_28cb111b.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Amedia_premium_HD_[RU]" ttv-logo="Amedia premium HD [RU].png",Amedia premium HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7801c8d1.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Action_HD_[RU]" ttv-logo="BCU Action HD [RU].png",BCU Action HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_60ca9abc.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Catastrophe_HD_[RU]" ttv-logo="BCU Catastrophe HD [RU].png",BCU Catastrophe HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5d1a7961.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Cinema_HD_[RU]" ttv-logo="BCU Cinema HD [RU].png",BCU Cinema HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fa23c9e9.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Cinema+_HD_[RU]" ttv-logo="BCU Cinema+ HD [RU].png",BCU Cinema+ HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a57e774a.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Comedy_HD_[RU]" ttv-logo="BCU Comedy HD [RU].png",BCU Comedy HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6dd4ecc0.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Cosmo_HD_[RU]" ttv-logo="BCU Cosmo HD [RU].png",BCU Cosmo HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_210cac7b.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Criminal_HD_[RU]" ttv-logo="BCU Criminal HD [RU].png",BCU Criminal HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cdf57649.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Fantastic_HD_[RU]" ttv-logo="BCU Fantastic HD [RU].png",BCU Fantastic HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_29f4b90f.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Filmystic_HD_[RU]" ttv-logo="BCU Filmystic HD [RU].png",BCU Filmystic HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_978d6853.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_History_HD_[RU]" ttv-logo="BCU History HD [RU].png",BCU History HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_218e8320.acelive%3F.mp4
+#EXTINF:-1 group-title="kids" tvg-name="BCU_Kids_4K_[RU]" ttv-logo="BCU Kids 4K [RU].png",BCU Kids 4K [RU] (kids)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8b0539e4.acelive%3F.mp4
+#EXTINF:-1 group-title="kids" tvg-name="BCU_Kids_HD_[RU]" ttv-logo="BCU Kids HD [RU].png",BCU Kids HD [RU] (kids)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_28ac765d.acelive%3F.mp4
+#EXTINF:-1 group-title="kids" tvg-name="BCU_Kids+_HD_[RU]" ttv-logo="BCU Kids+ HD [RU].png",BCU Kids+ HD [RU] (kids)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e928df33.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Kinorating_HD_[RU]" ttv-logo="BCU Kinorating HD [RU].png",BCU Kinorating HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0983f333.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Kinozakaz_HD_[RU]" ttv-logo="BCU Kinozakaz HD [RU].png",BCU Kinozakaz HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ac1d1f7e.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Marvel_HD_[RU]" ttv-logo="BCU Marvel HD [RU].png",BCU Marvel HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5da6e191.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Premiere_HD_[RU]" ttv-logo="BCU Premiere HD [RU].png",BCU Premiere HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a31df538.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Reality_HD_[RU]" ttv-logo="BCU Reality HD [RU].png",BCU Reality HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f7a4aa05.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Russian_HD_[RU]" ttv-logo="BCU Russian HD [RU].png",BCU Russian HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_21a7d342.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Stars_HD_[RU]" ttv-logo="BCU Stars HD [RU].png",BCU Stars HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d0666601.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Survival_HD_[RU]" ttv-logo="BCU Survival HD [RU].png",BCU Survival HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_566de785.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_TruMotion_HD_[RU]" ttv-logo="BCU TruMotion HD [RU].png",BCU TruMotion HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0768e3e0.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Ultra_4K_[RU]" ttv-logo="BCU Ultra 4K [RU].png",BCU Ultra 4K [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_42949e19.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_VHS_HD_[RU]" ttv-logo="BCU VHS HD [RU].png",BCU VHS HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6c8a226d.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Кинозал_Premiere_1_HD_[RU]" ttv-logo="BCU Кинозал Premiere 1 HD [RU].png",BCU Кинозал Premiere 1 HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_02678e68.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Кинозал_Premiere_2_HD_[RU]" ttv-logo="BCU Кинозал Premiere 2 HD [RU].png",BCU Кинозал Premiere 2 HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3395b1da.acelive%3F.mp4
+#EXTINF:-1 group-title="kids" tvg-name="BCU_Мультсериал_[RU]" ttv-logo="BCU Мультсериал [RU].png",BCU Мультсериал [RU] (kids)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c498e2b7.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Романтика_HD_[RU]" ttv-logo="BCU Романтика HD [RU].png",BCU Романтика HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f1cff65c.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="BCU_Сваты_HD_[RU]" ttv-logo="BCU Сваты HD [RU].png",BCU Сваты HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b7bd541f.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Bloomberg_EU_USA_EN" ttv-logo="Bloomberg EU USA EN.png",Bloomberg EU USA EN (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_434bac10.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Bloomberg_Quicktake_EN" ttv-logo="Bloomberg Quicktake EN.png",Bloomberg Quicktake EN (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cabac700.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Bloomberg_TV" ttv-logo="Bloomberg TV.png",Bloomberg TV (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ea501357.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Bloomberg_USA_EN" ttv-logo="Bloomberg USA EN.png",Bloomberg USA EN (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_255406e3.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Bollywood_HD_[RU]" ttv-logo="Bollywood HD [RU].png",Bollywood HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_45d0c431.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="CTPK_HD" ttv-logo="CTPK HD.png",CTPK HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_29dfafbb.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="CineMan_Top_[RU]" ttv-logo="CineMan Top [RU].png",CineMan Top [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_91d3abe2.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="CineMan_[RU]" ttv-logo="CineMan [RU].png",CineMan [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5721a358.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="CineMan_РуКино_[RU]" ttv-logo="CineMan РуКино [RU].png",CineMan РуКино [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a1a6f7cb.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Cinema_(Космос_ТВ)_[RU]" ttv-logo="Cinema (Космос ТВ) [RU].png",Cinema (Космос ТВ) [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_adad880d.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Cineman" ttv-logo="Cineman.png",Cineman (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f16b28c4.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Cloudflare_TV" ttv-logo="Cloudflare TV.png",Cloudflare TV (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8aa152f1.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Comedy_Radio" ttv-logo="Comedy Radio.png",Comedy Radio (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_31b6cc11.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Elektrika_TV" ttv-logo="Elektrika TV.png",Elektrika TV (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_52a7abd3.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Extasy_4k" ttv-logo="Extasy 4k.png",Extasy 4k (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7c5c0119.acelive%3F.mp4
+#EXTINF:-1 group-title="other" tvg-name="FILM_TV_4" ttv-logo="FILM TV 4.png",FILM TV 4 (other)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c6ca077d.acelive%3F.mp4
+#EXTINF:-1 group-title="other" tvg-name="FILM_TV_5" ttv-logo="FILM TV 5.png",FILM TV 5 (other)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4cd75416.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="FoodTime" ttv-logo="FoodTime.png",FoodTime (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ab52e7ec.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Hollywood_HD_[RU]" ttv-logo="Hollywood HD [RU].png",Hollywood HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8da9a3a8.acelive%3F.mp4
+#EXTINF:-1 group-title="regional" tvg-name="Insight_UHD_[RU]" ttv-logo="Insight UHD [RU].png",Insight UHD [RU] (regional)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2863b25d.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="KINO_зал" ttv-logo="KINO зал.png",KINO зал (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a253af8f.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="KION_Хит" ttv-logo="KION Хит.png",KION Хит (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_759f91f1.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Kinojam_1_HD" ttv-logo="Kinojam 1 HD.png",Kinojam 1 HD (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_99785f62.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Kinojam_2_HD" ttv-logo="Kinojam 2 HD.png",Kinojam 2 HD (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ed54e199.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Kinoman" ttv-logo="Kinoman.png",Kinoman (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1041557b.acelive%3F.mp4
+#EXTINF:-1 group-title="regional" tvg-name="Love_Nature_4K_[RU]" ttv-logo="Love Nature 4K [RU].png",Love Nature 4K [RU] (regional)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1eb5e488.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Paramount_Comedy_Russia_[RU]" ttv-logo="Paramount Comedy Russia [RU].png",Paramount Comedy Russia [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f95ffd89.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Russian_Extreme_HD" ttv-logo="Russian Extreme HD.png",Russian Extreme HD (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d7ecabda.acelive%3F.mp4
+#EXTINF:-1 group-title="regional" tvg-name="Russian_Extreme_Ultra_[RU]" ttv-logo="Russian Extreme Ultra [RU].png",Russian Extreme Ultra [RU] (regional)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ef70d287.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="TDM_TV_-_WWW" ttv-logo="TDM TV - WWW.png",TDM TV - WWW (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_34d63fac.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="TV1000_Action_[RU]" ttv-logo="TV1000 Action [RU].png",TV1000 Action [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e717de2e.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="TV1000_World_Kino_[RU]" ttv-logo="TV1000 World Kino [RU].png",TV1000 World Kino [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_89a33c26.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="TV1000_[RU]" ttv-logo="TV1000 [RU].png",TV1000 [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8189ae6b.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="TV1000_Русское_кино_[RU]" ttv-logo="TV1000 Русское кино [RU].png",TV1000 Русское кино [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0ecaa613.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Travel_Channel_HD_[RU]" ttv-logo="Travel Channel HD [RU].png",Travel Channel HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_126e71ab.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="VIP_Comedy_[RU]" ttv-logo="VIP Comedy [RU].png",VIP Comedy [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e0edaed8.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="VIP_Megahit_[RU]" ttv-logo="VIP Megahit [RU].png",VIP Megahit [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3a283146.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="VIP_Premiere_[RU]" ttv-logo="VIP Premiere [RU].png",VIP Premiere [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_59b59837.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="VIP_Serial_[RU]" ttv-logo="VIP Serial [RU].png",VIP Serial [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_daf7c849.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Блокбастер_HD" ttv-logo="Блокбастер HD.png",Блокбастер HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9d3a32b3.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Блокбастер_HD_[RU]" ttv-logo="Блокбастер HD [RU].png",Блокбастер HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0943b6ed.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Время" ttv-logo="Время.png",Время (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cbc6b08f.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ДОМ_КИНО_ПРЕМИУМ" ttv-logo="ДОМ КИНО ПРЕМИУМ.png",ДОМ КИНО ПРЕМИУМ (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_164556b6.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Дом_Кино_Премиум_HD" ttv-logo="Дом Кино Премиум HD.png",Дом Кино Премиум HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3a7786b7.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Дом_кино_[RU]" ttv-logo="Дом кино [RU].png",Дом кино [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3d26c8f6.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Дом_кино_премиум_HD_[RU]" ttv-logo="Дом кино премиум HD [RU].png",Дом кино премиум HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fa98a9d6.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Еда" ttv-logo="Еда.png",Еда (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c80c1466.acelive%3F.mp4
+#EXTINF:-1 group-title="educational" tvg-name="Еда_Премиум_HD_[RU]" ttv-logo="Еда Премиум HD [RU].png",Еда Премиум HD [RU] (educational)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e5963ed3.acelive%3F.mp4
+#EXTINF:-1 group-title="regional" tvg-name="КИНО_UHD_[RU]" ttv-logo="КИНО UHD [RU].png",КИНО UHD [RU] (regional)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7825a919.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="КИНОПОКАЗ" ttv-logo="КИНОПОКАЗ.png",КИНОПОКАЗ (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_11cfee03.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="КИНОСВИДАНИЕ_[RU]" ttv-logo="КИНОСВИДАНИЕ [RU].png",КИНОСВИДАНИЕ [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_bf846e75.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="КИНОСЕРИЯ_[RU]" ttv-logo="КИНОСЕРИЯ [RU].png",КИНОСЕРИЯ [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_38ef053a.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="КОМЕДИИ" ttv-logo="КОМЕДИИ.png",КОМЕДИИ (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4810d703.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Камеди" ttv-logo="Камеди.png",Камеди (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c8178bb8.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Камеди_HD_[RU]" ttv-logo="Камеди HD [RU].png",Камеди HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fc13286d.acelive%3F.mp4
+#EXTINF:-1 group-title="other" tvg-name="Кино_и_сериалы_HD" ttv-logo="Кино и сериалы HD.png",Кино и сериалы HD (other)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0d2f0552.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="КиноСат_[RU]" ttv-logo="КиноСат [RU].png",КиноСат [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41c4fc74.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Киноджем_1_HD_[RU]" ttv-logo="Киноджем 1 HD [RU].png",Киноджем 1 HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_19d7e17d.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинозал_1_[RU]" ttv-logo="Кинозал 1 [RU].png",Кинозал 1 [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c920e317.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Кинозал_12_(Сити_Эдем_TV)" ttv-logo="Кинозал 12 (Сити Эдем TV).png",Кинозал 12 (Сити Эдем TV) (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_21d325bb.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Кинозал_15_(Первый_Сериальный)" ttv-logo="Кинозал 15 (Первый Сериальный).png",Кинозал 15 (Первый Сериальный) (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_dca8ac40.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_1" ttv-logo="Кинозалы 1.png",Кинозалы 1 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9d4ebd48.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_10" ttv-logo="Кинозалы 10.png",Кинозалы 10 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3a6641d2.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_11" ttv-logo="Кинозалы 11.png",Кинозалы 11 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7bc7f2e7.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_12" ttv-logo="Кинозалы 12.png",Кинозалы 12 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f818c74a.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_13" ttv-logo="Кинозалы 13.png",Кинозалы 13 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d23d386b.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_14" ttv-logo="Кинозалы 14.png",Кинозалы 14 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5bfa546a.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_15" ttv-logo="Кинозалы 15.png",Кинозалы 15 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4b8af2bb.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_16" ttv-logo="Кинозалы 16.png",Кинозалы 16 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ff619b72.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_17" ttv-logo="Кинозалы 17.png",Кинозалы 17 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_da3c193a.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_18" ttv-logo="Кинозалы 18.png",Кинозалы 18 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_26dd9016.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_19" ttv-logo="Кинозалы 19.png",Кинозалы 19 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d03d8bd5.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_2" ttv-logo="Кинозалы 2.png",Кинозалы 2 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_90c19055.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_20" ttv-logo="Кинозалы 20.png",Кинозалы 20 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_bd63eb32.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_21" ttv-logo="Кинозалы 21.png",Кинозалы 21 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_caf38b91.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_22" ttv-logo="Кинозалы 22.png",Кинозалы 22 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_99909761.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_23" ttv-logo="Кинозалы 23.png",Кинозалы 23 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9d386ee9.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_24" ttv-logo="Кинозалы 24.png",Кинозалы 24 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_be768330.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_25" ttv-logo="Кинозалы 25.png",Кинозалы 25 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_bfe4ed83.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_26" ttv-logo="Кинозалы 26.png",Кинозалы 26 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c6259c10.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_27" ttv-logo="Кинозалы 27.png",Кинозалы 27 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a9429ff6.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_28" ttv-logo="Кинозалы 28.png",Кинозалы 28 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2a35e43b.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_29" ttv-logo="Кинозалы 29.png",Кинозалы 29 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_39828f59.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_3" ttv-logo="Кинозалы 3.png",Кинозалы 3 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8f6f28ef.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_30" ttv-logo="Кинозалы 30.png",Кинозалы 30 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ce245491.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_31" ttv-logo="Кинозалы 31.png",Кинозалы 31 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b2d67092.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_32" ttv-logo="Кинозалы 32.png",Кинозалы 32 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_906b69c8.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_33" ttv-logo="Кинозалы 33.png",Кинозалы 33 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9f76fc63.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_34" ttv-logo="Кинозалы 34.png",Кинозалы 34 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_15e22654.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_35" ttv-logo="Кинозалы 35.png",Кинозалы 35 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f4644720.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_4" ttv-logo="Кинозалы 4.png",Кинозалы 4 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_13482928.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_5" ttv-logo="Кинозалы 5.png",Кинозалы 5 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_559dd8fe.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_6" ttv-logo="Кинозалы 6.png",Кинозалы 6 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_286391bf.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_7" ttv-logo="Кинозалы 7.png",Кинозалы 7 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fac9734f.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_8" ttv-logo="Кинозалы 8.png",Кинозалы 8 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e0a70aaf.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинозалы_9" ttv-logo="Кинозалы 9.png",Кинозалы 9 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_979b74aa.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинокомедия_[RU]" ttv-logo="Кинокомедия [RU].png",Кинокомедия [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_36ef98ac.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Киномикс_[RU]" ttv-logo="Киномикс [RU].png",Киномикс [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_01d13e7d.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинопоказ" ttv-logo="Кинопоказ.png",Кинопоказ (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f41eedb2.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинопоказ_HD" ttv-logo="Кинопоказ HD.png",Кинопоказ HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7320d4f3.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинопоказ_HD_[RU]" ttv-logo="Кинопоказ HD [RU].png",Кинопоказ HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e24d4678.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Кинопремьера_1920x1080" ttv-logo="Кинопремьера 1920x1080.png",Кинопремьера 1920x1080 (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0134e599.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Кинопремьера_HD" ttv-logo="Кинопремьера HD.png",Кинопремьера HD (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b0aed2e5.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинопремьера_HD_[RU]" ttv-logo="Кинопремьера HD [RU].png",Кинопремьера HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5d67134c.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Киносвидание_HD" ttv-logo="Киносвидание HD.png",Киносвидание HD (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a65a6b11.acelive%3F.mp4
+#EXTINF:-1 group-title="other" tvg-name="Киносезон_HD" ttv-logo="Киносезон HD.png",Киносезон HD (other)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_068f1f6a.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Киносемья_HD" ttv-logo="Киносемья HD.png",Киносемья HD (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9a0ea69b.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Киносемья_[RU]" ttv-logo="Киносемья [RU].png",Киносемья [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4e064e16.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Киноужас_[RU]" ttv-logo="Киноужас [RU].png",Киноужас [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5c463a1c.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинохит_[RU]" ttv-logo="Кинохит [RU].png",Кинохит [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a987cc10.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Комедийное_HD" ttv-logo="Комедийное HD.png",Комедийное HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c51a9236.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Комедийное_HD_[RU]" ttv-logo="Комедийное HD [RU].png",Комедийное HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_361351af.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Комедия" ttv-logo="Комедия.png",Комедия (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7b786288.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Конный_мир_HD" ttv-logo="Конный мир HD.png",Конный мир HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f45acd4b.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Конный_мир_HD_[RU]" ttv-logo="Конный мир HD [RU].png",Конный мир HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_818311e3.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Мужское_кино_[RU]" ttv-logo="Мужское кино [RU].png",Мужское кино [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_db54a5fc.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="Наука_2.0_HD" ttv-logo="Наука 2.0 HD.png",Наука 2.0 HD (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6869a34b.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наш_Кинопоказ_HD" ttv-logo="Наш Кинопоказ HD.png",Наш Кинопоказ HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_78d84e8f.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наш_Кинопоказ_HD_[RU]" ttv-logo="Наш Кинопоказ HD [RU].png",Наш Кинопоказ HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f7c537ba.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Наша_Сибирь_4K" ttv-logo="Наша Сибирь 4K.png",Наша Сибирь 4K (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a5d22606.acelive%3F.mp4
+#EXTINF:-1 group-title="regional" tvg-name="Наша_сибирь_4K_[RU]" ttv-logo="Наша сибирь 4K [RU].png",Наша сибирь 4K [RU] (regional)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2892b2cb.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наше_Мужское_HD" ttv-logo="Наше Мужское HD.png",Наше Мужское HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8b36b202.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наше_Мужское_HD_[RU]" ttv-logo="Наше Мужское HD [RU].png",Наше Мужское HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f10987b4.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наше_крутое_HD" ttv-logo="Наше крутое HD.png",Наше крутое HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f8891ce5.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наше_крутое_HD_[RU]" ttv-logo="Наше крутое HD [RU].png",Наше крутое HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5be9be41.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наше_любимое_HD_[RU]" ttv-logo="Наше любимое HD [RU].png",Наше любимое HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c3d62969.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Наше_новое_кино_[RU]" ttv-logo="Наше новое кино [RU].png",Наше новое кино [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8f9b5cf2.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="О!Кино_[RU]" ttv-logo="О!Кино [RU].png",О!Кино [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fbfd005c.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Остросюжетное_HD" ttv-logo="Остросюжетное HD.png",Остросюжетное HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41ce897e.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Остросюжетное_HD_[RU]" ttv-logo="Остросюжетное HD [RU].png",Остросюжетное HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e53c6b0e.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Премиальное_HD" ttv-logo="Премиальное HD.png",Премиальное HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_90a9beef.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Премиальное_HD_[RU]" ttv-logo="Премиальное HD [RU].png",Премиальное HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3643aff1.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Приключения_HD" ttv-logo="Приключения HD.png",Приключения HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f5c32fca.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Родное_кино_[RU]" ttv-logo="Родное кино [RU].png",Родное кино [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fc546564.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Родной_Канал_HD" ttv-logo="Родной Канал HD.png",Родной Канал HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5c110a99.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Романтичное_HD" ttv-logo="Романтичное HD.png",Романтичное HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d587709f.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Романтичное_[RU]" ttv-logo="Романтичное [RU].png",Романтичное [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0bda023d.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русская_комедия_[RU]" ttv-logo="Русская комедия [RU].png",Русская комедия [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1c9aae41.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русский_Бестселлер_[RU]" ttv-logo="Русский Бестселлер [RU].png",Русский Бестселлер [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_839b51d7.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русский_Детектив_[RU]" ttv-logo="Русский Детектив [RU].png",Русский Детектив [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f71ed45d.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русский_бестселлер" ttv-logo="Русский бестселлер.png",Русский бестселлер (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_515ad4c2.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Русский_детектив" ttv-logo="Русский детектив.png",Русский детектив (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_06b3ec8b.acelive%3F.mp4
+#EXTINF:-1 group-title="regional" tvg-name="СЕРИАЛ_UHD_[RU]" ttv-logo="СЕРИАЛ UHD [RU].png",СЕРИАЛ UHD [RU] (regional)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f7b1b1b2.acelive%3F.mp4
+#EXTINF:-1 group-title="other" tvg-name="Сити_Эдем_-_КиноДетектив" ttv-logo="Сити Эдем - КиноДетектив.png",Сити Эдем - КиноДетектив (other)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_dc289269.acelive%3F.mp4
+#EXTINF:-1 group-title="other" tvg-name="Сити_Эдем_-_КиноКомедия" ttv-logo="Сити Эдем - КиноКомедия.png",Сити Эдем - КиноКомедия (other)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fb8aac58.acelive%3F.mp4
+#EXTINF:-1 group-title="other" tvg-name="Сити_Эдем_-_КиноМистика" ttv-logo="Сити Эдем - КиноМистика.png",Сити Эдем - КиноМистика (other)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fec7c4ca.acelive%3F.mp4
+#EXTINF:-1 group-title="other" tvg-name="Сити_Эдем_-_КиноНовелла" ttv-logo="Сити Эдем - КиноНовелла.png",Сити Эдем - КиноНовелла (other)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_419033e4.acelive%3F.mp4
+#EXTINF:-1 group-title="other" tvg-name="Сити_Эдем_-_КиноЭкшен" ttv-logo="Сити Эдем - КиноЭкшен.png",Сити Эдем - КиноЭкшен (other)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a41ab8f3.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ТВ_XXI_[RU]" ttv-logo="ТВ XXI [RU].png",ТВ XXI [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9175780e.acelive%3F.mp4
+#EXTINF:-1 group-title="regional" tvg-name="ТНТ_(+7)_[RU]" ttv-logo="ТНТ [RU].png",ТНТ (+7) [RU] (regional)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_24bf6144.acelive%3F.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="ТНТ_HD" ttv-logo="ТНТ HD.png",ТНТ HD (entertaining)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fc07dac9.acelive%3F.mp4
+#EXTINF:-1 group-title="regional" tvg-name="ТНТ_HD_[RU]" ttv-logo="ТНТ HD [RU].png",ТНТ HD [RU] (regional)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cc2e620f.acelive%3F.mp4
+#EXTINF:-1 group-title="tv" tvg-name="ТНТ4" ttv-logo="ТНТ4.png",ТНТ4 (tv)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9767d778.acelive%3F.mp4
+#EXTINF:-1 group-title="none" tvg-name="ТНТ4_HD" ttv-logo="ТНТ4 HD.png",ТНТ4 HD (none)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_50c960fc.acelive%3F.mp4
+#EXTINF:-1 group-title="other" tvg-name="Твое_ТВ_Юмор_HD" ttv-logo="Твое ТВ Юмор HD.png",Твое ТВ Юмор HD (other)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_856fb2a0.acelive%3F.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Точка_отрыва_[RU]" ttv-logo="Точка отрыва [RU].png",Точка отрыва [RU] (sport)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5c6a7ca0.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Феникс_Плюс_Кино_[RU]" ttv-logo="Феникс Плюс Кино [RU].png",Феникс Плюс Кино [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_449b2ed1.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="ХИТ" ttv-logo="ХИТ.png",ХИТ (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6f694407.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Хит_HD" ttv-logo="Хит HD.png",Хит HD (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_03237bfc.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Хит_HD_[RU]" ttv-logo="Хит HD [RU].png",Хит HD [RU] (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4c2d35d3.acelive%3F.mp4
+#EXTINF:-1 group-title="other" tvg-name="Чип_и_Дейл" ttv-logo="Чип и Дейл.png",Чип и Дейл (other)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_03f6c65d.acelive%3F.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Шансон-TB" ttv-logo="Шансон-TB.png",Шансон-TB (movies)
+http://10.10.10.25:6878/ace/getstream?url=http%3A%2F%2F10.10.10.25%3A1488%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a7515769.acelive%3F.mp4
