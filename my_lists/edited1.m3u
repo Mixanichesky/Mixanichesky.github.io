@@ -46,6 +46,8 @@ http://10.10.10.25:6878/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d
 http://10.10.10.25:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791&.mp4
 #EXTINF:-1 group-title="movies" tvg-name="BCU_Ultra_4K_[RU]" tvg-logo="BCU Ultra 4K [RU].png",BCU Ultra 4K [RU]
 http://10.10.10.25:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7&.mp4
+#EXTINF:-1 group-title="regional" tvg-name="BCU_Premiere_Ultra_4K_[RU]" tvg-logo="BCU Premiere Ultra 4K [RU].png",BCU Premiere Ultra 4K [RU]
+http://10.10.10.25:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea&.mp4
 #EXTINF:-1 group-title="movies" tvg-name="BCU_VHS_HD_[RU]" tvg-logo="BCU VHS HD [RU].png",BCU VHS HD [RU]
 http://10.10.10.25:6878/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d&.mp4
 #EXTINF:-1 group-title="movies" tvg-name="BCU_Кинозал_Premiere_1_HD_[RU]" tvg-logo="BCU Кинозал Premiere 1 HD [RU].png",BCU Кинозал Premiere 1 HD [RU]
@@ -68,6 +70,10 @@ http://10.10.10.25:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab
 http://10.10.10.25:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a&.mp4
 #EXTINF:-1 group-title="kids" tvg-name="BCU_Мультсериал_[RU]" tvg-logo="BCU Мультсериал [RU].png",BCU Мультсериал [RU]
 http://10.10.10.25:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="ТНТ_HD" tvg-logo="ТНТ HD.png",ТНТ HD
+http://10.10.10.25:6878/ace/getstream?id=cb210d72e945b65d842bb43dfe39af14d6d80897&.mp4
+#EXTINF:-1 group-title="entertaining" tvg-name="ТНТ4_[RU]" tvg-logo="ТНТ4 [RU].png",ТНТ4 [RU]
+http://10.10.10.25:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 group-title="none" tvg-name="Кинозалы_1" tvg-logo="Кинозалы 1.png",Кинозалы 1
 http://10.10.10.25:6878/ace/getstream?id=b8cb7ab5225f11e773d791f7e51a7e4e04f485a8&.mp4
 #EXTINF:-1 group-title="none" tvg-name="Кинозалы_2" tvg-logo="Кинозалы 2.png",Кинозалы 2
@@ -408,10 +414,6 @@ http://10.10.10.25:6878/ace/getstream?id=d6ef46ac76d26b47488c32c95b8a81a70d42b8d
 http://10.10.10.25:6878/ace/getstream?id=4c4a1773570e3580d3b50996d6e71ab4d8265dfb&.mp4
 #EXTINF:-1 group-title="entertaining" tvg-name="ТВ_Центр_(+2)" tvg-logo="ТВ Центр.png",ТВ Центр (+2)
 http://10.10.10.25:6878/ace/getstream?id=e9eab21c4027d44cc9e37c8ce7b552b1a7ac39fd&.mp4
-#EXTINF:-1 group-title="entertaining" tvg-name="ТНТ_HD" tvg-logo="ТНТ HD.png",ТНТ HD
-http://10.10.10.25:6878/ace/getstream?id=cb210d72e945b65d842bb43dfe39af14d6d80897&.mp4
-#EXTINF:-1 group-title="entertaining" tvg-name="ТНТ4_[RU]" tvg-logo="ТНТ4 [RU].png",ТНТ4 [RU]
-http://10.10.10.25:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 group-title="entertaining" tvg-name="Тайна" tvg-logo="Тайна.png",Тайна
 http://10.10.10.25:6878/ace/getstream?id=86ef7bab09bee68d718203c44dcf75004eff035d&.mp4
 #EXTINF:-1 group-title="entertaining" tvg-name="ЧЕ" tvg-logo="ЧЕ.png",ЧЕ
