@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="tv" tvg-name="Akudji_HD" tvg-logo="Akudji HD.png",Akudji HD
-http://10.10.10.25:6878/ace/getstream?id=2c4bccb514a87855b7b830a0101685c8c8bd910f&.mp4
-#EXTINF:-1 group-title="tv" tvg-name="Akudji_TV_HD" tvg-logo="Akudji TV HD.png",Akudji TV HD
-http://10.10.10.25:6878/ace/getstream?id=1e4afd7a33adafc6c936f4239c410c717c0d5d68&.mp4
+#EXTINF:-1 group-title="tv" tvg-name="seriesTV" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",seriesTV
+https://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
+#EXTINF:-1 group-title="tv" tvg-name="ЧтоГдеКогда" tvg-logo="https://psv4.userapi.com/c536236/u1279180/docs/d24/bca59dc00165/www.png",Akudji TV HD
+https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
 #EXTINF:-1 group-title="movies" tvg-name="BCU_Action_HD_[RU]" tvg-logo="BCU Action HD [RU].png",BCU Action HD [RU]
 http://10.10.10.25:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d&.mp4
 #EXTINF:-1 group-title="movies" tvg-name="BCU_Catastrophe_HD_[RU]" tvg-logo="BCU Catastrophe HD [RU].png",BCU Catastrophe HD [RU]
