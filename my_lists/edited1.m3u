@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="tv" tvg-name="TDM_film" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",seriesTV
+#EXTINF:-1 group-title="tv" tvg-name="TDM_film" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",TDM_film
 http://195.9.195.3:8080/hls/219255.m3u8
 #EXTINF:-1 group-title="tv" tvg-name="ЧтоГдеКогда" tvg-logo="https://psv4.userapi.com/c536236/u1279180/docs/d24/bca59dc00165/www.png",ЧтоГдеКогда
 https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
