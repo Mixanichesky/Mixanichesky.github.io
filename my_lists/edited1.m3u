@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="tv" tvg-name="TDM_film" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",TDM_film
-http://195.9.195.3:8080/hls/219255.m3u8
+http://10.10.10.25:6060/play?url=https://goodgame.ru/WHAT_WHERE_WHEN
 #EXTINF:-1 group-title="tv" tvg-name="ЧтоГдеКогда" tvg-logo="https://psv4.userapi.com/c536236/u1279180/docs/d24/bca59dc00165/www.png",ЧтоГдеКогда
 https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
 #EXTINF:-1 group-title="movies" tvg-name="BCU_Action_HD_[RU]" tvg-logo="BCU Action HD [RU].png",BCU Action HD [RU]
@@ -2459,3 +2459,7 @@ http://10.10.10.25:6878/ace/getstream?id=f15c52cbb3b15f80a6ff67f7c43fa775961ae0c
 http://10.10.10.25:6878/ace/getstream?id=1f52a09059da9be50a14296bd7d1f4e4a6e3ecbb&.mp4
 #EXTINF:-1 group-title="Фильмы|HD" tvg-name="Star_Family_HD" tvg-logo="Star Family HD.png",Star Family HD
 http://10.10.10.25:6878/ace/getstream?id=7d9736c6c9b87fc1945f7540592a74df6c613a89&.mp4
+#EXTINF:-1 group-title="tv" tvg-name="Nikichar_GG" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",TDM_film
+http://10.10.10.25:6060/play?url=https://goodgame.ru/Nikichar
+#EXTINF:-1 group-title="tv" tvg-name="Nikichar_Twitch" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",TDM_film
+http://10.10.10.25:6060/play?url=https://tvitch.tv/Nikichar
